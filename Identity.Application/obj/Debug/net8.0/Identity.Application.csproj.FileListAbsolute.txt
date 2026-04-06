@@ -1,0 +1,15 @@
+D:\Test\Identity.Application\bin\Debug\net8.0\Identity.Application.deps.json
+D:\Test\Identity.Application\bin\Debug\net8.0\Identity.Application.dll
+D:\Test\Identity.Application\bin\Debug\net8.0\Identity.Application.pdb
+D:\Test\Identity.Application\bin\Debug\net8.0\Identity.Domain.dll
+D:\Test\Identity.Application\bin\Debug\net8.0\Identity.Domain.pdb
+D:\Test\Identity.Application\obj\Debug\net8.0\Identity.Application.csproj.AssemblyReference.cache
+D:\Test\Identity.Application\obj\Debug\net8.0\Identity.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Identity.Application\obj\Debug\net8.0\Identity.Application.AssemblyInfoInputs.cache
+D:\Test\Identity.Application\obj\Debug\net8.0\Identity.Application.AssemblyInfo.cs
+D:\Test\Identity.Application\obj\Debug\net8.0\Identity.Application.csproj.CoreCompileInputs.cache
+D:\Test\Identity.Application\obj\Debug\net8.0\Identity.59D253F8.Up2Date
+D:\Test\Identity.Application\obj\Debug\net8.0\Identity.Application.dll
+D:\Test\Identity.Application\obj\Debug\net8.0\refint\Identity.Application.dll
+D:\Test\Identity.Application\obj\Debug\net8.0\Identity.Application.pdb
+D:\Test\Identity.Application\obj\Debug\net8.0\ref\Identity.Application.dll

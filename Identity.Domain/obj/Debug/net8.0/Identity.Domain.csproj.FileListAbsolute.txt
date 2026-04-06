@@ -1,0 +1,11 @@
+D:\Test\Identity.Domain\bin\Debug\net8.0\Identity.Domain.deps.json
+D:\Test\Identity.Domain\bin\Debug\net8.0\Identity.Domain.dll
+D:\Test\Identity.Domain\bin\Debug\net8.0\Identity.Domain.pdb
+D:\Test\Identity.Domain\obj\Debug\net8.0\Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Identity.Domain\obj\Debug\net8.0\Identity.Domain.AssemblyInfoInputs.cache
+D:\Test\Identity.Domain\obj\Debug\net8.0\Identity.Domain.AssemblyInfo.cs
+D:\Test\Identity.Domain\obj\Debug\net8.0\Identity.Domain.csproj.CoreCompileInputs.cache
+D:\Test\Identity.Domain\obj\Debug\net8.0\Identity.Domain.dll
+D:\Test\Identity.Domain\obj\Debug\net8.0\refint\Identity.Domain.dll
+D:\Test\Identity.Domain\obj\Debug\net8.0\Identity.Domain.pdb
+D:\Test\Identity.Domain\obj\Debug\net8.0\ref\Identity.Domain.dll
